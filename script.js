@@ -72,7 +72,7 @@ const fetchData = async () => {
     renderComponent();
   } catch (error) {
     console.log(error)
-    alert('Вы ввели некоректные данные')
+    alert('Вы ввели некоректные данные или я не оплатил сервис предоставляющий API )))')
   }
 };
 
